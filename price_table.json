@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "updated": "2026-10-12",
+  "listings": [
+    {"price": 650, "isNew": false, "channel": null, "model": "SM-S908", "storageGb": 256, "year": 2022, "date": "2026-10-06", "source": "lalafo.az"},
+    {"price": 700, "isNew": false, "channel": null, "model": "SM-S908", "storageGb": 256, "year": 2022, "date": "2026-10-12", "source": "lalafo.az"},
+    {"price": 680, "isNew": false, "channel": null, "model": "SM-S908", "storageGb": 256, "year": 2022, "date": "2026-09-06", "source": "lalafo.az"},
+    {"price": 700, "isNew": false, "channel": null, "model": "SM-S908", "storageGb": 256, "year": 2022, "date": "2026-10-08", "source": "lalafo.az"},
+    {"price": 600, "isNew": false, "channel": null, "model": "SM-S908", "storageGb": 256, "year": 2022, "date": "2026-10-11", "source": "lalafo.az"},
+    {"price": 430, "isNew": false, "channel": null, "model": "SM-S908", "storageGb": 256, "year": 2022, "date": "2026-10-08", "source": "lalafo.az"},
+    {"price": 570, "isNew": false, "channel": null, "model": "SM-S908", "storageGb": 256, "year": 2022, "date": "2026-10-10", "source": "lalafo.az"},
+    {"price": 250, "isNew": false, "channel": null, "model": "SM-S908", "storageGb": 256, "year": 2022, "date": "2026-10-12", "source": "tap.az"},
+    {"price": 380, "isNew": false, "channel": null, "model": "SM-S908", "storageGb": 128, "year": 2022, "date": "2026-10-08", "source": "lalafo.az"},
+    {"price": 1800, "isNew": false, "channel": null, "model": "SM-S908", "storageGb": 512, "year": 2022, "date": "2026-08-19", "source": "lalafo.az"},
+
+    {"price": 1200, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-10-09", "source": "lalafo.az"},
+    {"price": 1850, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-09-22", "source": "lalafo.az"},
+    {"price": 1600, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-09-26", "source": "lalafo.az"},
+    {"price": 1950, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-08-15", "source": "lalafo.az"},
+    {"price": 2100, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-10-05", "source": "lalafo.az"},
+    {"price": 1150, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-10-11", "source": "lalafo.az"},
+    {"price": 1599, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-10-06", "source": "lalafo.az"},
+    {"price": 1670, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-10-12", "source": "lalafo.az"},
+    {"price": 1450, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-09-21", "source": "lalafo.az"},
+    {"price": 2500, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-10-10", "source": "lalafo.az"},
+    {"price": 2300, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-10-02", "source": "lalafo.az"},
+
+    {"price": 2600, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 512, "year": 2025, "date": "2026-08-30", "source": "lalafo.az"},
+    {"price": 1500, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 512, "year": 2025, "date": "2026-09-26", "source": "lalafo.az"},
+    {"price": 2000, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 512, "year": 2025, "date": "2026-09-26", "source": "lalafo.az"},
+    {"price": 3200, "isNew": false, "channel": null, "model": "SM-S938", "storageGb": 1024, "year": 2025, "date": "2026-10-05", "source": "lalafo.az"},
+
+    {"price": 1749, "isNew": true, "channel": "reseller", "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-10-12", "source": "tap.az"},
+    {"price": 1799, "isNew": true, "channel": "reseller", "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-10-12", "source": "tap.az"},
+    {"price": 1849, "isNew": true, "channel": "reseller", "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-10-12", "source": "tap.az"},
+    {"price": 1449, "isNew": true, "channel": "reseller", "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-09-28", "source": "lalafo.az"},
+    {"price": 1599, "isNew": true, "channel": "reseller", "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-08-18", "source": "lalafo.az"},
+    {"price": 2000, "isNew": true, "channel": "reseller", "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-10-05", "source": "lalafo.az"},
+    {"price": 2300, "isNew": true, "channel": "reseller", "model": "SM-S938", "storageGb": 256, "year": 2025, "date": "2026-09-23", "source": "lalafo.az"},
+
+    {"price": 1699, "isNew": true, "channel": "reseller", "model": "SM-S938", "storageGb": 512, "year": 2025, "date": "2026-10-12", "source": "tap.az"},
+    {"price": 1749, "isNew": true, "channel": "reseller", "model": "SM-S938", "storageGb": 512, "year": 2025, "date": "2026-10-12", "source": "tap.az"},
+    {"price": 2049, "isNew": true, "channel": "reseller", "model": "SM-S938", "storageGb": 512, "year": 2025, "date": "2026-10-12", "source": "tap.az"},
+    {"price": 2099, "isNew": true, "channel": "reseller", "model": "SM-S938", "storageGb": 512, "year": 2025, "date": "2026-10-12", "source": "tap.az"},
+    {"price": 2400, "isNew": true, "channel": "reseller", "model": "SM-S938", "storageGb": 512, "year": 2025, "date": "2026-10-06", "source": "lalafo.az"},
+    {"price": 2450, "isNew": true, "channel": "reseller", "model": "SM-S938", "storageGb": 512, "year": 2025, "date": "2026-09-23", "source": "lalafo.az"}
+  ]
+}
