@@ -1,0 +1,17 @@
+{
+  "_izah": "Izlenen modeller. model = Samsung model kodu (SM-xxxx), year = buraxilis ili, title_regex = elanin basliginda olmali olan ifade, queries = axtaris sorgulari.",
+  "models": [
+    {
+      "model": "SM-S908",
+      "year": 2022,
+      "title_regex": "\\bs\\s?22\\s?ultra\\b",
+      "queries": ["samsung galaxy s22 ultra 128", "samsung galaxy s22 ultra 256", "samsung galaxy s22 ultra 512"]
+    },
+    {
+      "model": "SM-S938",
+      "year": 2025,
+      "title_regex": "\\bs\\s?25\\s?ultra\\b",
+      "queries": ["samsung galaxy s25 ultra 256", "samsung galaxy s25 ultra 512", "samsung galaxy s25 ultra 1tb"]
+    }
+  ]
+}
