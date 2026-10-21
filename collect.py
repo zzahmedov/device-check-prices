@@ -125,9 +125,12 @@ def classify(raw, cfg):
 
 def collect_live(cfg_all):
     found = {}
+    fails, blocked = {}, set()
     for cfg in cfg_all["models"]:
         for q in cfg["queries"]:
             for site, parser in (("tap.az", parse_tap), ("lalafo.az", parse_lalafo)):
+                if site in blocked:
+                    continue
                 for url in search_urls(site, q):
                     try:
                         html = fetch(url)
@@ -136,7 +139,13 @@ def collect_live(cfg_all):
                             if rec:
                                 found[rec["key"]] = rec
                     except Exception as e:
-                        print(f"XETA {url}: {type(e).__name__}", file=sys.stderr)
+                        code = getattr(e, "code", "")
+                        print(f"XETA {site} {type(e).__name__} {code}", file=sys.stderr)
+                        fails[site] = fails.get(site, 0) + 1
+                        if fails[site] >= 3:
+                            print(f"{site} cavab vermir (3 ardicil xeta), bu sayta sorgular dayandirildi.", file=sys.stderr)
+                            blocked.add(site)
+                            break
                     time.sleep(DELAY)
     return found
 
